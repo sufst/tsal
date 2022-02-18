@@ -2271,7 +2271,7 @@
     (uuid 6dc966bc-2ab4-485a-8775-1b6a82af49c3)
     (property "Reference" "J1" (id 0) (at 24.765 66.675 0))
     (property "Value" "Conn_01x02" (id 1) (at 24.765 69.215 0))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal" (id 2) (at 24.765 76.2 0)
+    (property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal" (id 2) (at 24.765 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 24.765 76.2 0)
@@ -3177,7 +3177,7 @@
       (reference "D7") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/6dc966bc-2ab4-485a-8775-1b6a82af49c3"
-      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal")
+      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal")
     )
     (path "/8b5ef870-c787-47b8-8a14-ed9256c6b5f1"
       (reference "J2") (unit 1) (value "Conn_01x02") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal")
