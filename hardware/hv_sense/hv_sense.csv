@@ -1,0 +1,33 @@
+,,,,,
+Collated Components:,,,,,
+,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint
+1,7,"C1, C9, C10, C11, C12, C13, C15",100n,Device:C,Capacitor_SMD:C_0603_1608Metric
+2,6,"C2, C3, C4, C5, C6, C8",10u,Device:C_Polarized,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+3,1,C7,22u,Device:C_Polarized,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+4,2,"C16, C17",100u,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+5,6,"D1, D2, D3, D4, D5, D6",BAT54W,Diode:BAT54W,Package_TO_SOT_SMD:SOT-323_SC-70
+6,1,D7,LED,Device:LED,LED_SMD:LED_0603_1608Metric
+7,3,"H1, H2, H3",MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_3.2mm_M3
+8,2,"J1, J6",Conn_01x02,Connector_Generic:Conn_01x02,footprints:Molex_Micro-Fit_3.0_43045-0212_2x01_P3.00mm_Vertical
+9,2,"J2, J7",Conn_01x06,Connector_Generic:Conn_01x06,footprints:Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical
+10,1,J3,Conn_01x04,Connector_Generic:Conn_01x04,footprints:Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical
+11,1,PS1,MPWF1212S-3W,Converter_DCDC:ITX1212SA,footprints:MPWF1212S-3W
+12,12,"R1, R2, R3, R4, R5, R7, R8, R12, R13, R30, R31, R32",82,Device:R,Resistor_SMD:R_2512_6332Metric
+13,1,R6,100k,Device:R,Resistor_SMD:R_0603_1608Metric
+14,8,"R9, R10, R11, R14, R15, R16, R19, R28",10k,Device:R,Resistor_SMD:R_0603_1608Metric
+15,5,"R17, R18, R20, R21, R22",453k,Device:R,Resistor_SMD:R_0805_2012Metric
+16,1,R23,348k,Device:R,Resistor_SMD:R_0805_2012Metric
+17,2,"R24, R26",3.3k,Device:R,Resistor_SMD:R_0603_1608Metric
+18,1,R25,150k,Device:R,Resistor_SMD:R_0603_1608Metric
+19,1,R27,1k,Device:R,Resistor_SMD:R_1206_3216Metric
+20,1,R29,105k,Device:R,Resistor_SMD:R_0805_2012Metric
+21,1,RV1,470k,Device:R_Potentiometer,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical
+22,1,SW1,SW_SPDT,Switch:SW_SPDT,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+23,2,"U1, U3",4081,4xxx:4081,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+24,1,U2,4071,4xxx:4071,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+25,2,"U4, U5",40106,4xxx:40106,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+26,1,U6,4013,4xxx:4013,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+27,1,U8,TLV274,Amplifier_Operational:TLC274,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+28,1,U9,TL431ACDT,Reference_Voltage:TL431D,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+29,1,U10,140817141410,Isolator:SFH617A-1,Package_DIP:DIP-4_W7.62mm
